@@ -1,0 +1,15 @@
+{
+  "_comment": "Assign images to roles. Add new files here when you drop them in base-images/. Empty arrays = auto-detect.",
+  "sideProfile": [
+    "IMG_4437-1536x1024.jpg"
+  ],
+  "bodyWork": [
+    "2V9A0061.jpg",
+    "IMG_8971.jpg",
+    "IMG_3342.jpg"
+  ],
+  "colorPatina": [
+    "IMG_8670.jpg",
+    "04946-1280x800.jpg"
+  ]
+}
